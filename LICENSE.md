@@ -1,4 +1,4 @@
-
+ProtonVPN new Client: no-logs-policy & smart-DNS offers the most advanced ProtonVPN client, with no-logs-policy and smart-DNS. Ideal for users who value privacy and security.
 
 
 
